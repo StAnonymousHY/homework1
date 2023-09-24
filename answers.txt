@@ -1,0 +1,2 @@
+What is a remote repository?
+It is a repository that is cloned(possibly) from the git repo to another network like a personal computer so that others can work on the repository in their own network. 
